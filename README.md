@@ -193,3 +193,9 @@ you to think about possible changes or extensions you might make to the code:
   or customize what statistics are reported? 
 - how can you use Generics to generalize the `MultiSet` ADT to contain any kind of objects?
 - how does the code change if we make the `MultiSet` ADT a Java Interface instead of an abstract class?
+
+Classes: MultiSet [Karmen], Tree first 1-4 functions [Karmen], Tree 5-8 functions [Christina], 
+Tree bottom half functions [Roy], TreeMultiSet [Christina], ArrayListMultiSet [Julia], LinkedListMultiSet [Julia], 
+Node [Edan]
+
+Functions: main (profileMultiSet) [Edan]
